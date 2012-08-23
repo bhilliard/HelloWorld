@@ -9,7 +9,7 @@ public class HelloWorld {
 	 * @param args input from console
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello Multiverse Studios!");
+		System.out.println("Hello Multi-multi-verse Studios!");
 
 	}
 
